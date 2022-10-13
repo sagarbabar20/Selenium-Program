@@ -97,5 +97,6 @@
 	<classpathentry kind="lib" path="C:/Apache POI Library/poi-ooxml-schemas-3.12-20150511.jar"/>
 	<classpathentry kind="lib" path="C:/Apache POI Library/poi-scratchpad-3.12-20150511.jar"/>
 	<classpathentry kind="lib" path="C:/Apache POI Library/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
